@@ -16,7 +16,7 @@
       },
       "ANNOUNCEMENT": {
         "text": "",
-        "active": false
+        "active": true
       },
       "MAINTENANCE_MODE": false,
       "RESTOCK": false,
