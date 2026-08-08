@@ -16,9 +16,9 @@
       },
       "ANNOUNCEMENT": {
         "text": "",
-        "active": true
+        "active": false
       },
-      "MAINTENANCE_MODE": false,
+      "MAINTENANCE_MODE": true,
       "RESTOCK": false,
       "ADMIN_WHITELIST_IPS": [],
       "OTHER_PRODUCTS": []
