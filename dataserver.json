@@ -1,1 +1,27 @@
-
+[
+  {
+    "id": "_SETTINGS_",
+    "settings": {
+      "WEBSITE_LOGO": "https://smail.my.id/cloud/vXszCfqq1",
+      "WEBSITE_BANNER": "https://smail.my.id/cloud/vXszCfqq1",
+      "PRICES": {
+        "PANEL_1GB": 2000,
+        "PANEL_2GB": 3000,
+        "PANEL_3GB": 4000,
+        "PANEL_4GB": 5000,
+        "PANEL_5GB": 6000,
+        "PANEL_6GB": 7000,
+        "PANEL_7GB": 9000,
+        "PANEL_PREMIUM": 15000
+      },
+      "ANNOUNCEMENT": {
+        "text": "",
+        "active": false
+      },
+      "MAINTENANCE_MODE": false,
+      "RESTOCK": false,
+      "ADMIN_WHITELIST_IPS": [],
+      "OTHER_PRODUCTS": []
+    }
+  }
+]
